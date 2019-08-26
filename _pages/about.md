@@ -1,5 +1,5 @@
 ---
-layout: "About"
+layout: "single"
 permalink: /about/
 header:
     image: "/assets/images/Imagefront.jpg"
