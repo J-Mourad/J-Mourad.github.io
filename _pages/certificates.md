@@ -1,5 +1,5 @@
 ---
-layout: "archive"
+layout: "categories"
 permalink: /certificates/
 header:
     image: "/assets/images/Imagefront.jpg"
