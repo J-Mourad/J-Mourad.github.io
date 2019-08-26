@@ -5,7 +5,7 @@ main:
   - title: "Projects"
     url: /projects/ 
   - title: "Resume"
-    url: /resume/
+    url: /resume/assets/docs/Resume.pdf/
   - title: "Certificates"
     url: /certificates/  
   # - title: "About"
