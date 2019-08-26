@@ -1,5 +1,5 @@
 ---
-layout: "single"
+layout: "default"
 permalink: /certificates/
 header:
     image: "/assets/images/Imagefront.jpg"
