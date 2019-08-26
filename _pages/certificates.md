@@ -5,14 +5,14 @@ header:
     image: "/assets/images/Imagefront.jpg"
 ---
 
-# Coursera Certificates
+## Coursera Certificates
 - [Open Source Software Development, Linux and Git specialization](https://www.coursera.org/account/accomplishments/specialization/S4WRACT66LSB)
 - [Python 3 Programming specialization](https://www.coursera.org/account/accomplishments/specialization/R9BZ2PJXC5JN)
 - [TensorFlow in Practice specialization](https://www.coursera.org/account/accomplishments/specialization/6D3HT6AJCQEM)
 - [Deep Learning specialization](https://www.coursera.org/account/accomplishments/specialization/RY4782ZQRYCB)
 
-# Udacity Certificates
+## Udacity Certificates
 - [Data Analysis Track](/assets/docs/CertificateDataAnalysisTrack.pdf)
 
-# Other certificate
+## Other certificate
 - [EFSET - Quick English check](/assets/docs/QuickEnglishcheck.pdf)
