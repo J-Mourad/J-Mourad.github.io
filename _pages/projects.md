@@ -4,7 +4,7 @@ permalink: /projects/
 header:
     image: "/assets/images/Imagefront.jpg"
 ---
-These are some projects that i have been working on
+These are some projects that I have worked on:
 
 ## Kaggle Competitions
 - **Elo Merchant Category Recommendation**: In this competition, Kagglers will develop algorithms to identify and serve the most relevant opportunities to individuals, by uncovering signal in customer loyalty.
