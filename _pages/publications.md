@@ -1,0 +1,24 @@
+---
+layout: "single"
+permalink: /publications/
+header:
+    image: "/assets/images/Imagefront.jpg"
+---
+
+
+ <h1>My Publications</h1>
+    <div class="article-wrap">
+
+<h4 style="margin-bottom:0px;padding-top:10px;">Journal Publications</h4>
+<ul>
+    <li>
+    <p>
+        <b>Fusion on CNN and Statistical Features for Texture classification</b>
+        <br>Mourad Jbene et al., <br>
+        <i>The 7th International Conference on Wireless Networks and Mobile Communications
+            (WINCOM), Fez, Morocco, 
+        </i>, October 2019, (accepted).
+        <br />
+        <a href="#">[PDF - Coming Soon]</a>
+    </li>
+</ul>
