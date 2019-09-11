@@ -20,5 +20,9 @@ I enjoyed a lot the project and achieved Top 16% in the competition.
 
 ## Academic Projects
 
+<a href="#">[PDF - Coming Soon]</a>
+
 
 ## Other Projects
+
+<a href="#">[PDF - Coming Soon]</a>
