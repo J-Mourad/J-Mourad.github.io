@@ -9,7 +9,7 @@ header:
  <h1>My Publications</h1>
     <div class="article-wrap">
 
-<h4 style="margin-bottom:0px;padding-top:10px;">Journal Publications</h4>
+<h4 style="margin-bottom:0px;padding-top:10px;">Conference Publications</h4>
 <ul>
     <li>
     <p>
