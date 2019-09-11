@@ -7,7 +7,7 @@ header:
 
 
  <h1>My Publications</h1>
-<h3 style="margin-bottom:0px;padding-top:10px;">Conference Publications</h4>
+<h3 style="margin-bottom:0px;padding-top:10px;">Conference Publications</h3>
 <ul>
     <li>
         <b>Fusion on CNN and Statistical Features for Texture classification</b>
@@ -21,4 +21,4 @@ header:
     </li>
 </ul>
 
-<h3 style="margin-bottom:0px;padding-top:10px;">Journal Publications</h4>
+<h3 style="margin-bottom:0px;padding-top:10px;">Journal Publications</h3>
