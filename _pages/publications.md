@@ -17,7 +17,8 @@ header:
             (WINCOM), Fez, Morocco,
         </i>
          October 2019, (accepted).<br />
-        <a href="#">[PDF - Coming Soon]</a>
+        <a href="https://ieeexplore.ieee.org/document/8942469">[PDF]</a>
+        <!-- <a href="https://ieeexplore.ieee.org/document/8942469">[PDF - Coming Soon]</a> -->
     </li>
 </ul>
 
