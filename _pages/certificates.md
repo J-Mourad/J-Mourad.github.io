@@ -15,6 +15,7 @@ You can check my verified certificates on the following links.
 
 ## Udacity Certificates
 - [Data Analysis Track](/assets/docs/CertificateDataAnalysisTrack.pdf)
+- [Udacity - Data Analyst for Enterprise Nanodegree Program](https://confirm.udacity.com/NH77MJGK)
 
 ## Other certificate
 - [EFSET - Quick English check](/assets/docs/QuickEnglishcheck.pdf)

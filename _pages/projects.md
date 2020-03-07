@@ -25,4 +25,10 @@ I enjoyed a lot the project and achieved Top 16% in the competition.
 
 ## Other Projects
 
-<a href="#">[Coming Soon]</a>
+- **Finger Counter**:
+A program that counts the number of fingers you're holding out.
+<a href="https://youtu.be/a0CjgK5weOg" target="_blank">[Demo]</a>
+
+- **Sentiment Analysis Application**:
+A web application that can detect the polarity sentiment in text.
+<a href="https://youtu.be/Zj5QPRZEoTk" target="_blank">[Demo]</a>
