@@ -18,10 +18,9 @@ This project was very successful, I learned a lot and managed to get a bronze me
 In this competition, I was challenged to build an algorithm to detect a visual signal for pneumonia in medical images. Specifically, the algorithm needs to automatically locate lung opacities on chest radiographs. <br />
 I enjoyed a lot the project and achieved Top 16% in the competition.
 
-## Academic Projects
+<!-- ## Academic Projects
 
-<a href="#">[Coming Soon]</a>
-
+<a href="#">[Coming Soon]</a> -->
 
 ## Other Projects
 
