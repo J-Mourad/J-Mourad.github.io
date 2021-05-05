@@ -13,3 +13,13 @@ My interests are in the Applied ML, Texture Analysis and Computer vison domains.
 <!-- At FSDM, I worked on several research projects under the guidance of *Prof. Ahmed Drissi El Maliyani*. Recently one of our research papers is under review at WINCOM2019 conference in which we proposed a two-stream neural network architecture for texture descrimination. -->
 
 My research experience is providing me in-depth knowledge of Machine Learning field. All of my work is driven by these learnings.
+
+-------
+
+## More Info About Me
+
+Besides learning about statistics and data science, hobbies of mine include:
+
+Learning New Foreign languages English/Spanish/German
+Editing and publishing Tutorials on Youtube
+Exercise: Running, Swimming
