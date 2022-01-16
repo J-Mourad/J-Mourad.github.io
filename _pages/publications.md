@@ -35,7 +35,7 @@ header:
         <b>Deep Neural Network and Boosting Based Hybrid Quality Ranking for e-Commerce Product Search</b>
         <br>Mourad Jbene et al., <br>
         <i>
-            Big Data and Cognitive Computing
+            Big Data and Cognitive Computing,
         </i> August 2021.<br />
         <a href="https://doi.org/10.3390/bdcc5030035" target="_blank">[PDF]</a>
     </li>
