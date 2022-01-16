@@ -5,8 +5,19 @@ header:
     image: "/assets/images/Imagefront.jpg"
 ---
 
+<h1>My Publications</h1>
+<h3 style="margin-bottom:0px;padding-top:10px;">Journal Publications</h3>
+<ul>
+    <li>
+        <b>Deep Neural Network and Boosting Based Hybrid Quality Ranking for e-Commerce Product Search</b>
+        <br>Mourad Jbene et al., <br>
+        <i>
+            Big Data and Cognitive Computing,
+        </i> August 2021.<br />
+        <a href="https://doi.org/10.3390/bdcc5030035" target="_blank">[PDF]</a>
+    </li>
+</ul>
 
- <h1>My Publications</h1>
 <h3 style="margin-bottom:0px;padding-top:10px;">Conference Publications</h3>
 <ul>
     <li>
@@ -27,17 +38,5 @@ header:
         </i> December 2021.<br />
         <a href="">[PDF - Coming Soon]</a>
         <a href="https://www.kaggle.com/jmourad100/mnad-moroccan-news-articles-dataset">[Dataset]</a>
-    </li>
-</ul>
-
-<h3 style="margin-bottom:0px;padding-top:10px;">Journal Publications</h3>
-<ul>
-    <li>
-        <b>Deep Neural Network and Boosting Based Hybrid Quality Ranking for e-Commerce Product Search</b>
-        <br>Mourad Jbene et al., <br>
-        <i>
-            Big Data and Cognitive Computing,
-        </i> August 2021.<br />
-        <a href="https://doi.org/10.3390/bdcc5030035" target="_blank">[PDF]</a>
     </li>
 </ul>
