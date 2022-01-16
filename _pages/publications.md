@@ -15,11 +15,28 @@ header:
         <i>
             The 7th International Conference on Wireless Networks and Mobile Communications
             (WINCOM), Fez, Morocco,
-        </i>
-         October 2019, (accepted).<br />
-        <a href="https://ieeexplore.ieee.org/document/8942469" target="_blank">[PDF]</a>
-        <!-- <a href="https://ieeexplore.ieee.org/document/8942469">[PDF - Coming Soon]</a> -->
+        </i> October 2019.<br />
+        <a href="https://doi.org/10.1109/WINCOM47513.2019.8942469" target="_blank">[PDF]</a>
+    </li>
+    <li>
+        <b>A Moroccan News Articles Dataset (MNAD) For Arabic Text Categorization</b>
+        <br>Mourad Jbene et al., <br>
+        <i>
+            The International Conference on Decision Aid Sciences and Applications
+            (DASA), Online
+        </i> December 2021.<br />
+        <a href="">[PDF - Coming Soon]</a>
     </li>
 </ul>
 
 <h3 style="margin-bottom:0px;padding-top:10px;">Journal Publications</h3>
+<ul>
+    <li>
+        <b>Deep Neural Network and Boosting Based Hybrid Quality Ranking for e-Commerce Product Search</b>
+        <br>Mourad Jbene et al., <br>
+        <i>
+            Big Data and Cognitive Computing
+        </i> August 2021.<br />
+        <a href="https://doi.org/10.3390/bdcc5030035" target="_blank">[PDF]</a>
+    </li>
+</ul>
