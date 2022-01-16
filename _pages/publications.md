@@ -26,6 +26,7 @@ header:
             (DASA), Online
         </i> December 2021.<br />
         <a href="">[PDF - Coming Soon]</a>
+        <a href="https://www.kaggle.com/jmourad100/mnad-moroccan-news-articles-dataset">[Dataset]</a>
     </li>
 </ul>
 
